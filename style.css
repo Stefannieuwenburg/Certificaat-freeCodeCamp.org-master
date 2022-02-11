@@ -1,0 +1,44 @@
+* {
+box-sizing: border-box;
+}
+  
+body {
+    background-color: rgb(98, 132, 40);
+    
+}
+
+h1 {
+    color:rgb(0, 0, 0);
+}
+
+.main {
+    width: 800px;
+    height: 40px;
+    margin: 20px;
+    padding: 2px;
+}
+  
+/*portrait phones, less than  */
+@media (min-width: 576px) { 
+
+}
+
+/*portrait phones, less than  */
+@media (min-width: 768px) { 
+
+}
+
+/* tablets, less than */
+@media (min-width: 992px) {
+
+}
+
+/* desktops, less than */
+@media (min-width: 1200px) { 
+
+}
+
+/* large desktops, less than */
+@media (min-width: 1400px) { 
+
+}
